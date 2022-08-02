@@ -1,0 +1,7 @@
+Let's play hangman!
+
+To play hangman, you will have to solve a randomly generated word before
+making 10 incorrect guesses. The word will not be a pronoun or a swear word.
+You may guess either a letter or the whole at any time. If the letter guess
+is in the word, all instances of that letter will be revealed.
+If you guess the entire word, you win!
